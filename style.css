@@ -1,0 +1,75 @@
+*{
+    margin :0px;
+    padding: 0px;
+}
+.logo{
+    font-family: Sans-Serif ;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 30px;
+  font-style: normal;
+}
+.nav{
+    font-size: 20px;
+}
+.two{
+    width: 100%;
+    font-family: Sans-Serif ;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+margin-top: 30px;
+margin-bottom: 10px;
+}
+.one{
+    text-align: justify;
+    font-family: Sans-Serif ;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+}
+.section1{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: #c3bfbf;
+}
+.provide{
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: Sans-Serif ;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+}
+.provide span{
+  font-family: Sans-Serif ;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 20px;
+  font-style: normal;
+}
+.top{
+  padding-top: 16px;
+}
+.box{
+  height:60px;
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%; top: 0; left: 100px;
+  transition: background-color 0.3s;
+  z-index: 1;
+}
+
+header.scrolled 
+{ background-color: #222; 
+}
+.imo {
+  padding-top: 50px;
+}
+.hi{
+  padding-top:15px;
+}
